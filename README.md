@@ -1,2 +1,2 @@
 # Shop
-Test task for Azure Games
+Test task
